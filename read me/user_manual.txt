@@ -1,0 +1,22 @@
+This is a banking money transaction system.
+that have 3 user catagory.
+ 
+i) Admin
+ii) Customer service officer
+iii) Cash service officer
+
+<--- Admin Panal --->
+
+user Id : 90
+password: admin
+
+<--- Customer service Panal --->
+
+user Id : 91
+password: customer
+
+
+<--- Cash service Panal --->
+
+user Id : 92
+password: cash
