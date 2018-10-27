@@ -3,13 +3,15 @@
 2:2 Semester PHP 3 member group project. Subject assignment.
 considering bank system, we try to develop those kind of stuff in this application.
 
-#Technologies
-HTML
-CSS
-JavaScript
-PHP
-MySQL
-JQuery libries
+# Technologies 
+<ul>
+  <li>HTML <li> 
+<li> CSS <li>
+<li> JavaScript <li>
+<li>PHP <li>
+<li>MySQL <li>
+<li>JQuery libries <li>
+  <ul>
 
 #versions
 MySQL = > 5.7.14
